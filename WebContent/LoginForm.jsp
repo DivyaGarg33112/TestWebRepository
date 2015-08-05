@@ -10,6 +10,12 @@
 <center>
 <h1>Login Form</h1>
 <form>
+	<table>
+		<tr>
+			<td>User Name </td>
+			<td><input type="text" name="add"></td>
+		</tr>
+	</table>
 </form>
 </center>
 </body>
